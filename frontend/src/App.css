@@ -1,0 +1,32 @@
+.app {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+textarea {
+  width: 100%;
+  padding: 12px;
+  font-family: monospace;
+  font-size: 14px;
+  margin-top: 16px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+button {
+  margin-top: 16px;
+  padding: 10px 24px;
+  font-size: 14px;
+  border-radius: 6px;
+  border: none;
+  background: #378ADD;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #2a6fb5;
+}
